@@ -1,0 +1,38 @@
+
+body{
+  background :#f0f0f0;
+  font-family : Arial, sans-serif;
+}
+#container{
+  color : #444; 
+  width : 980px ;
+  margin :auto;
+  background: #fff;
+}
+
+
+#content{ width:;}
+li {
+  width : 660px;
+ }
+li hr {
+  clear : both;
+  visibility : hidden;
+}
+li div{ margin : 0 5px;}
+
+
+img{ height : 200px; }
+.odd .image {float: left; }
+.even .image {float: right; }
+
+li h2{
+  font-weight: normal;
+  font-size : 1.6em;
+  font-family : Georgia;
+}
+.description {
+  color : #666;
+  line-height : 1.5;
+  font-size : 1.4em;
+}

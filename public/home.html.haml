@@ -1,0 +1,35 @@
+!!! 5
+%html{html_attrs('en')}
+  %head
+    %title Ten Things // List What You Like
+    %link(href="style.css" media="screen" rel="stylesheet" type="text/css")
+    %script(type="text/javascript")
+    %script(src="app.js" type="text/javascript")
+
+
+  %body
+    #container
+      #header
+        %h3
+          %a{:href => '/'} ten things
+          == // list what you like
+      #content
+        %h1 Ten Things We Learned in Thailand
+        %ol
+          - (1..10).each do |i|
+            %li{:class => (i % 2 == 0 ? "even" : "odd")}
+              %h2 The elephants really like bananas
+              .image
+                %img(src="trunk.jpg" alt="trunk")
+              .description
+                Before you ride elephants you'll want to buy bananas.
+                The elephants will put their noses back and ask for a banana.
+                They'll stop if you don't give them one.
+                Our elephant was way hungrier than all the others.
+              %hr
+      #footer
+        Footer
+    - analytics_partial = File.join(File.dirname(__FILE__), '_analytics.html')
+    - if File.exist?(analytics_partial)
+      = File.read analytics_partial
+
