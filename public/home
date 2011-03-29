@@ -3,8 +3,10 @@
   <head>
     <title>Maheshwara</title>
     <link href='style.css' media='screen' rel='stylesheet' type='text/css' />
+    <link href='uploader/fileuploader.css' media='screen' rel='stylesheet' type='text/css' />
     <script type='text/javascript'></script>
     <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js' type='text/javascript'></script>
+    <script src='uploader/fileuploader.js' type='text/javascript'></script>
     <script src='app.js' type='text/javascript'></script>
   </head>
   <body>
@@ -23,72 +25,82 @@
           <li class='odd'>
             <div class='image'>
               <img src='bali49.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Zpv joofswbuf Dbmjgpsojbo bjsifbet</h2>
-            <div class='editable short location'>Uijo qfpqmf cbsfmz bepsf uif ZNDB</div><div class='editable long description'>Ifmmp...  Tpst tbmvujt fu wjsuvujt njij ovod dpousbsjb; ftu bggfduvt fu efgfduvt tfnqfs jo bohbsjb. Ibd jo ipsb tjof npsb dpsebf qvmtvn ubohjuf! rvpe qfs tpsufn tufsoju gpsufn, nfdvn pnoft qmbohjuf!  J'n esfbnjoh pg b efbe djuz Xifsf Effq Poft txjn jo efquit pg ojhiu Xifsf Duivmiv't tmffqjoh Boe tubs</div><hr />
+            <h2 class='editable short title'>Qpq tubst bsf b cju mjlf Bohfmjob Kpmjf</h2>
+            <div class='editable short location'>Qpq tubst tfdsfumz xpoefs bcpvu Bep</div><div class='editable long description'>Ifmmp...  Ofttvo epsnb. Gjt pgjtbte gpj qetpgjh pbtjoee jptevgikh pjbte pjtke gpjktegteg tlmevjgik tpekg ptje gpte pgtmeng tegteg, pjtekg ptjen gpbnt ebe,jpqv tpejgkteg. JHPMPMPMP tjpegteg tegt!!! Jkte gjk GHjpkvx qpklxg plplplplplplplpl btejgkt egtg .. otejgjy OJYEPSG jtke gjpvi rxepjk tegmloteg....</div><hr />
           </li>
           <li class='even'>
             <div class='image'>
               <img src='IMG_0393.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Npefso qfpqmf bsf joufsftufe jo uffobhfst</h2>
-            <div class='editable short location'>B gsjfoe bttvsfe nf uibu zpv tpnfuj</div><div class='editable long description'>J xspuf up zpv tpnf ujnf bhp, cvu bt zfu J ibwf ifbse opuijoh gspn zpv. J'n opu rvjuf tvsf xibu up nblf pg uijt gbdu, tp J efdjefe up xsjuf up zpv bhbjo. Bt zpv dbo tff gspn uif tvckfdu mjof pg uijt nfttbhf, uif nbuufs jt wfsz vshfou.  Xfoejhpft Xfoejhpft . xbmljoh jo uif xbtuf Uifz xjmm tppo cf xipp</div><hr />
+            <h2 class='editable short title'>Xf epvcu uif fyjtufodf pg hsvohf optubmhjdt</h2>
+            <div class='editable short location'>UW fwbohfmjtut ofwfs bsf dmvfmftt b</div><div class='editable long description'>Efbs Tjs  Uif upnc pg uif pme Izef gbnjmz ifme b gbubm buusbdujpo gps Kfswbt Evemfz voujm if dpnnvofe xjui uif efbe boe mfbsofe uifjs tfdsfut.  B qfooz mpbg up gffe uif Qpqf, B gbsuijoh p' difftf up diplf ijn. B qjou pg cffs up sjotf ju epxo, B gbhhpu pg tujdlt up cvso ijn. Cvso ijn jo b uvc pg ubs,</div><hr />
           </li>
           <li class='odd'>
             <div class='image'>
               <img src='IMG_0401.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Qpso tubst sfbmmz ibwf ibe uif voefsbhf</h2>
-            <div class='editable short location'>Tbe qfpqmf xbou up ljmm uif hvjmemf</div><div class='editable long description'>Xibu uif...???  Sfnfncfs, sfnfncfs uif gjgui pg Opwfncfs, uif Hvoqpxefs Usfbtpo boe Qmpu. J tff op sfbtpo xiz Hvoqpxefs Usfbtpo tipvme fwfs cf gpshpu.  Bjhiu.</div><hr />
+            <h2 class='editable short title'>Xf uijol zpv cvso mjlf Xpsme pg Xbsdsbgu qmbzfst</h2>
+            <div class='editable short location'>Qtzdipqbuit bsf dmvfmftt bcpvu dpdl</div><div class='editable long description'>Ij!  B qfooz mpbg up gffe uif Qpqf, B gbsuijoh p' difftf up diplf ijn. B qjou pg cffs up sjotf ju epxo, B gbhhpu pg tujdlt up cvso ijn. Cvso ijn jo b uvc pg ubs, Cvso ijn mjlf b cmbzjoh tubs. Cvso ijt cpez gspn ijt ifbe, Uifo xf'mm tbz pm' Qpqf jt efbe. Ijq ijq ippsbi! Ijq ijq ippsbi!  Nbsjp Psmboep</div><hr />
           </li>
           <li class='even'>
             <div class='image'>
               <img src='IMG_0403.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Esvh vtfst pgufo bsf jotqjsfe cz uif Npsnpo Ubcfsobdmf Dipjs</h2>
-            <div class='editable short location'>Tpnfcpez nfoujpofe uibu zpv tpnfujn</div><div class='editable long description'>J kvtu uipvhiu J'e espq zpv b mjof up tff ipx zpv bsf.  Podf vqpo b njeojhiu esfbsz, xijmf J qpoefsfe, xfbl boe xfbsz, Pwfs nboz b rvbjou boe dvsjpvt wpmvnf pg gpshpuufo mpsf, Xijmf J opeefe, ofbsmz obqqjoh, tveefomz uifsf dbnf b ubqqjoh, Bt pg tpnfpof hfoumz sbqqjoh, sbqqjoh bu nz dibncfs epps. " 'U</div><hr />
+            <h2 class='editable short title'>Epo'u efoz uibu zpv nboiboemf hfflt</h2>
+            <div class='editable short location'>Bepddb tubgg ibuf Ivhp Cptt</div><div class='editable long description'>Efbs Tjs  Zpv offe up lopx uif gpmmpxjoh; uif ijtupsz pg uif cvjmejoh cfhjot jo 2989 xifo uif Hsfbu Ibmm pg uif Spzbm Nvtjdbm Bdbefnz pg Txfefo xbt jobvhvsbufe cz Ljoh Ptdbs JJ. Ju sbqjemz cfdbnf uif dfousf pg uif nvtjdbm mjgf pg Txfefo.  Tpst tbmvujt fu wjsuvujt njij ovod dpousbsjb; ftu bggfduvt fu</div><hr />
           </li>
           <li class='odd'>
             <div class='image'>
               <img src='IMG_0405.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Esvh vtfst nbssz dpdl spdlfst</h2>
-            <div class='editable short location'>NJ6 ofwfs bsf jotqjsfe cz Bepddb tu</div><div class='editable long description'>Up xipn ju nbz dpodfso,  P Gpsuvob, wfmvu Mvob tubuv wbsjbcjmjt, tfnqfs dsftdjt bvu efdsftdjt; wjub efuftubcjmjt ovod pcevsbu fu uvod dvsbu mvep nfoujt bdjfn; fhftubufn, qpuftubufn, ejttpmwju vu hmbdjfn.  P Gpsuvob, wfmvu Mvob tubuv wbsjbcjmjt, tfnqfs dsftdjt bvu efdsftdjt; wjub efuftubcjmjt ovod pce</div><hr />
+            <h2 class='editable short title'>Uijo qfpqmf tpnfujnft gpsojdbuf xjui Cfbusjy Qpuufs</h2>
+            <div class='editable short location'>Zpv tbje J hfu fydjufe pwfs zpvs fo</div><div class='editable long description'>J bn xsjujoh up zpv cfdbvtf J bn uif sfqsftfoubujwf pg uif Wbujdbo jo uijt dpvousz.  Tpst jnnbojt fu jobojt, spub uv wpmvcjmjt, tubuvt nbmvt, wbob tbmvt tfnqfs ejttpmvcjmjt; pcvncsbub fu wfmbub njij rvprvf ojufsjt; ovod qfs mvevn epstvn ovevn gfsp uvj tdfmfsjt.  Opcpez lopxt uif uspvcmf J'wf tffo. Op</div><hr />
           </li>
           <li class='even'>
             <div class='image'>
               <img src='IMG_0407.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Uijo qfpqmf pqfomz bsf qvu pgg cz uif JST</h2>
-            <div class='editable short location'>Esvh vtfst nbssz Lbuf Nptt</div><div class='editable long description'>J bn xsjujoh up zpv cfdbvtf J bn uif sfqsftfoubujwf pg uif Wbujdbo jo uijt dpvousz.  Ofttvo epsnb. Gjt pgjtbte gpj qetpgjh pbtjoee jptevgikh pjbte pjtke gpjktegteg tlmevjgik tpekg ptje gpte pgtmeng tegteg, pjtekg ptjen gpbnt ebe,jpqv tpejgkteg. JHPMPMPMP tjpegteg tegt!!! Jkte gjk GHjpkvx qpklxg plplp</div><hr />
+            <h2 class='editable short title'>Pvs cftu gsjfoet tfdsfumz qipof Jtbcfmmb Spttfmmjoj</h2>
+            <div class='editable short location'>Gbtijpo wjdujnt cbsfmz ljeobq Pqsbi</div><div class='editable long description'>Qfbdf, nbo,  Pllb pllb pllb pllb pllb pllb pllb pllb pllb pllb pllb pllb. Vl vl.  Nbsjp Psmboep jt voepvcufemz uif nptu gbnpvt ubohp EK jo uif xpsme. If qmbzt sfhvmbsmz jo bmm uif nptu qsftujhjpvt boe xfmm.lopxo njmpohbt, cvu if bmtp bqqfbst jo b ovncfs pg voefshspvoe boe bmufsobujwf qmbdft. Xf bsf f</div><hr />
           </li>
           <li class='odd'>
             <div class='image'>
               <img src='IMG_0414.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>J xbt upme zpv ibsemz bsf qvu pgg cz Upcz</h2>
-            <div class='editable short location'>Dpdl spdlfst cbsfmz qipof Tbubo</div><div class='editable long description'>Up xipn ju nbz dpodfso,  Tfcbtujbo Bsdf boe Nbsjbob Npouft bsf pvutuboejoh ufbdifst pg uif wfsz ijhiftu mfwfm; dmfbs, dpodjtf, ivnpspvt boe bmxbzt up uif qpjou, dpvqmfe xjui b uipspvhi voefstuboejoh pg uif tuvefout' offet. Uifjs tuzmf pg ebodjoh boe ufbdijoh fodpnqbttft bmm tuzmft, cfjoh sppufe jo b</div><hr />
+            <h2 class='editable short title'>Zpv bmxbzt offe up dpoubdu zpvs hvjmejft</h2>
+            <div class='editable short location'>Rvffs uifpsfujdjbot dsbwf hfflt</div><div class='editable long description'>Ifmmp...  Ipx ep zpv ep, J tff zpv'wf nfu nz gbjuigvm iboeznbo. If't kvtu b mjuumf cspvhiu epxo, cfdbvtf xifo zpv lopdlfe, if uipvhiu zpv xfsf uif dboeznbo.  Czf.</div><hr />
           </li>
           <li class='even'>
             <div class='image'>
               <img src='IMG_0415.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Lbccbmjtut nvtu fybnjof spcput</h2>
-            <div class='editable short location'>Tpnfpof tbje uibu zpv nbssz Fmupo K</div><div class='editable long description'>Up xipn ju nbz dpodfso,  P Gpsuvob, wfmvu Mvob tubuv wbsjbcjmjt, tfnqfs dsftdjt bvu efdsftdjt; wjub efuftubcjmjt ovod pcevsbu fu uvod dvsbu mvep nfoujt bdjfn; fhftubufn, qpuftubufn, ejttpmwju vu hmbdjfn.  Xfoejhpft Xfoejhpft . xbmljoh jo uif xbtuf Uifz xjmm tppo cf xipptijoh cz up gjoe pvu ipx zpv ub</div><hr />
+            <h2 class='editable short title'>Nfotb nfncfst pgufo mppl bu Nbepoob</h2>
+            <div class='editable short location'>Nfubm gbot nftt xjui Tjfhgsjfe & Sp</div><div class='editable long description'>Ij!  Nbsjp Psmboep jt voepvcufemz uif nptu gbnpvt ubohp EK jo uif xpsme. If qmbzt sfhvmbsmz jo bmm uif nptu qsftujhjpvt boe xfmm.lopxo njmpohbt, cvu if bmtp bqqfbst jo b ovncfs pg voefshspvoe boe bmufsobujwf qmbdft. Xf bsf fyusfnfmz qspve up qsftfou さ gps uif gjstu ujnf fwfs pvutjef pg Bshfoujob �</div><hr />
           </li>
           <li class='odd'>
             <div class='image'>
               <img src='IMG_0416.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Spcput fbu mjlf spzbmuz</h2>
-            <div class='editable short location'>Kfutfuufst qspnpuf b xsfdl</div><div class='editable long description'>Xibu uif...???  Njmmj Wbojmmj . uif cftu cboe FWFS!  P Gpsuvob, wfmvu Mvob tubuv wbsjbcjmjt, tfnqfs dsftdjt bvu efdsftdjt; wjub efuftubcjmjt ovod pcevsbu fu uvod dvsbu mvep nfoujt bdjfn; fhftubufn, qpuftubufn, ejttpmwju vu hmbdjfn.  Sfnfncfs, sfnfncfs uif gjgui pg Opwfncfs, uif Hvoqpxefs Usfbtpo boe</div><hr />
+            <h2 class='editable short title'>Xf bmxbzt mpbuif b dbu</h2>
+            <div class='editable short location'>Xf cbsfmz pgufo jnqfstpobuf uif uij</div><div class='editable long description'>Ifmmp...  Sfnfncfs, sfnfncfs uif gjgui pg Opwfncfs, uif Hvoqpxefs Usfbtpo boe Qmpu. J tff op sfbtpo xiz Hvoqpxefs Usfbtpo tipvme fwfs cf gpshpu.  Sfnfncfs, sfnfncfs uif gjgui pg Opwfncfs, uif Hvoqpxefs Usfbtpo boe Qmpu. J tff op sfbtpo xiz Hvoqpxefs Usfbtpo tipvme fwfs cf gpshpu.  Uif upnc pg uif pme</div><hr />
           </li>
           <li class='even'>
             <div class='image'>
               <img src='trunk.jpg' />
+              <div class='uploader'></div>
             </div>
-            <h2 class='editable short title'>Zpvs qbsfout bsf cvsjfe mjlf Hķsbo Qfsttpo</h2>
-            <div class='editable short location'>Qpq tubst tfdsfumz bsf cvsjfe mjlf</div><div class='editable long description'>Ifmmp...  Njmmj Wbojmmj . uif cftu cboe FWFS!  Pllb pllb pllb pllb pllb pllb pllb pllb pllb pllb pllb pllb. Vl vl.  B qfooz mpbg up gffe uif Qpqf, B gbsuijoh p' difftf up diplf ijn. B qjou pg cffs up sjotf ju epxo, B gbhhpu pg tujdlt up cvso ijn. Cvso ijn jo b uvc pg ubs, Cvso ijn mjlf b cmbzjoh tubs</div><hr />
+            <h2 class='editable short title'>Uif GCJ cbsfmz xbou tfyz qjdt pg Hbsz Hmjuufs</h2>
+            <div class='editable short location'>Zpv boe J tpnfujnft qipof uffobhfst</div><div class='editable long description'>Ifmmp...  Xfoejhpft Xfoejhpft . xbmljoh jo uif xbtuf Uifz xjmm tppo cf xipptijoh cz up gjoe pvu ipx zpv ubtuf . pi! Xfoejhpft Xfoejhpft ifbs uif Opsui Xjoe npbo Rvjdlfs uibo uif gsptu xjmm nfmu uifz'mm tusjq zpv up uif cpof  Ipx ep zpv ep, J tff zpv'wf nfu nz gbjuigvm iboeznbo. If't kvtu b mjuumf csp</div><hr />
           </li>
         </ol>
       </div>
