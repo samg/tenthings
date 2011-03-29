@@ -21,22 +21,6 @@
         <ol>
           <li class='odd'>
             <div class='image'>
-              <img src='bali48.jpg' />
-            </div>
-            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
-            <div class='location'>
-              Non risus Integer sed augue
-            </div>
-            <div class='description'>
-              Integer sed augue non risus egestas mollis. Duis malesuada
-              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
-              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
-              imperdiet. Curabitur ut ligula nisl.
-            </div>
-            <hr />
-          </li>
-          <li class='even'>
-            <div class='image'>
               <img src='bali49.jpg' />
             </div>
             <h2 class='title'>Aenean egestas odio pretium dolor</h2>
@@ -51,25 +35,9 @@
             </div>
             <hr />
           </li>
-          <li class='odd'>
-            <div class='image'>
-              <img src='IMG_0393.jpg' />
-            </div>
-            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
-            <div class='location'>
-              Non risus Integer sed augue
-            </div>
-            <div class='description'>
-              Integer sed augue non risus egestas mollis. Duis malesuada
-              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
-              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
-              imperdiet. Curabitur ut ligula nisl.
-            </div>
-            <hr />
-          </li>
           <li class='even'>
             <div class='image'>
-              <img src='IMG_0400.jpg' />
+              <img src='IMG_0393.jpg' />
             </div>
             <h2 class='title'>Aenean egestas odio pretium dolor</h2>
             <div class='location'>
@@ -117,39 +85,7 @@
           </li>
           <li class='odd'>
             <div class='image'>
-              <img src='IMG_0404.jpg' />
-            </div>
-            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
-            <div class='location'>
-              Non risus Integer sed augue
-            </div>
-            <div class='description'>
-              Integer sed augue non risus egestas mollis. Duis malesuada
-              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
-              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
-              imperdiet. Curabitur ut ligula nisl.
-            </div>
-            <hr />
-          </li>
-          <li class='even'>
-            <div class='image'>
               <img src='IMG_0405.jpg' />
-            </div>
-            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
-            <div class='location'>
-              Non risus Integer sed augue
-            </div>
-            <div class='description'>
-              Integer sed augue non risus egestas mollis. Duis malesuada
-              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
-              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
-              imperdiet. Curabitur ut ligula nisl.
-            </div>
-            <hr />
-          </li>
-          <li class='odd'>
-            <div class='image'>
-              <img src='IMG_0406.jpg' />
             </div>
             <h2 class='title'>Aenean egestas odio pretium dolor</h2>
             <div class='location'>
@@ -166,6 +102,70 @@
           <li class='even'>
             <div class='image'>
               <img src='IMG_0407.jpg' />
+            </div>
+            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
+            <div class='location'>
+              Non risus Integer sed augue
+            </div>
+            <div class='description'>
+              Integer sed augue non risus egestas mollis. Duis malesuada
+              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
+              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
+              imperdiet. Curabitur ut ligula nisl.
+            </div>
+            <hr />
+          </li>
+          <li class='odd'>
+            <div class='image'>
+              <img src='IMG_0414.jpg' />
+            </div>
+            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
+            <div class='location'>
+              Non risus Integer sed augue
+            </div>
+            <div class='description'>
+              Integer sed augue non risus egestas mollis. Duis malesuada
+              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
+              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
+              imperdiet. Curabitur ut ligula nisl.
+            </div>
+            <hr />
+          </li>
+          <li class='even'>
+            <div class='image'>
+              <img src='IMG_0415.jpg' />
+            </div>
+            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
+            <div class='location'>
+              Non risus Integer sed augue
+            </div>
+            <div class='description'>
+              Integer sed augue non risus egestas mollis. Duis malesuada
+              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
+              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
+              imperdiet. Curabitur ut ligula nisl.
+            </div>
+            <hr />
+          </li>
+          <li class='odd'>
+            <div class='image'>
+              <img src='IMG_0416.jpg' />
+            </div>
+            <h2 class='title'>Aenean egestas odio pretium dolor</h2>
+            <div class='location'>
+              Non risus Integer sed augue
+            </div>
+            <div class='description'>
+              Integer sed augue non risus egestas mollis. Duis malesuada
+              interdum mi, non ullamcorper sem iaculis eget. Donec euismod
+              imperdiet metus, vestibulum egestas eros suscipit id. Morbi
+              imperdiet. Curabitur ut ligula nisl.
+            </div>
+            <hr />
+          </li>
+          <li class='even'>
+            <div class='image'>
+              <img src='trunk.jpg' />
             </div>
             <h2 class='title'>Aenean egestas odio pretium dolor</h2>
             <div class='location'>
