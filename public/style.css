@@ -79,6 +79,7 @@ li.even .title, li.even .description {
 li .image {
   width : 240px;
   height : 180px;
+  position : relative;
 }
 
 
@@ -104,4 +105,8 @@ li input {
 }
 textarea {
   height:120px;
+}
+.uploader {
+  position : absolute;
+  bottom : 0;
 }
