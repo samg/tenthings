@@ -3,36 +3,85 @@ body{
   background :#f0f0f0;
   font-family : Arial, sans-serif;
 }
+a{
+  color : #66c;
+}
 #container{
   color : #444; 
-  width : 980px ;
+  width : 670px;
+  padding : 0 40px;
   margin :auto;
   background: #fff;
 }
 
 
-#content{ width:;}
+#header{
+  margin :0 ;
+  height : 50px;
+  padding: 15px 0;
+  border-bottom : 2px solid #f0f0f0;
+}
+#header h3{
+  margin : 0;
+  padding : 15px 0;
+  float : left;
+}
+#header span{
+  display : block;
+  float : right;
+  clear : right;
+}
+
+#content{
+}
+ol {
+  padding : 0;
+  margin : 0;
+  list-style : none;
+}
 li {
-  width : 660px;
- }
+  margin : 0;
+  padding : 12px 0;
+}
 li hr {
   clear : both;
-  visibility : hidden;
+  border : none;
+  margin : 0;
+  height : 0px;
 }
-li div{ margin : 0 5px;}
+li .title {
+  margin : 0;
+  font-size : 1.2em;
+  font-family : Georgia;
+  color : #699;
+}
+
+li .location {
+  font-size : 0.9em;
+  font-weight : bold;
+  margin : 5px 0;
+  color : #696969
+}
+li.odd .location,
+li.odd .title, li.odd .description {
+  margin-left : 270px;
+}
+
+li.odd .location,
+li.even .title, li.even .description {
+  width : 400px;
+}
+li .image {
+  width : 240px;
+  height : 180px;
+}
 
 
-img{ height : 200px; }
+img{ height : 180px; }
 .odd .image {float: left; }
 .even .image {float: right; }
 
-li h2{
-  font-weight: normal;
-  font-size : 1.6em;
-  font-family : Georgia;
-}
 .description {
   color : #666;
   line-height : 1.5;
-  font-size : 1.4em;
 }
