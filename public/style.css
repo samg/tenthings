@@ -5,6 +5,9 @@ body{
   margin : 0;
   padding : 0;
 }
+.editBG{
+  background : #9f9;
+}
 a{
   color : #66c;
 }
@@ -86,4 +89,19 @@ img{ height : 180px; }
 .description {
   color : #666;
   line-height : 1.5;
+}
+
+input, textarea{
+  font:inherit;
+  width:100%;
+  padding: 0;
+  margin : 0;
+  border: none;
+}
+
+li input {
+  width:395px
+}
+textarea {
+  height:120px;
 }
