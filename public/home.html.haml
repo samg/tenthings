@@ -1,3 +1,4 @@
+- require 'rubygems'; require 'babel';
 !!! 5
 %html{html_attrs('en')}
   %head
@@ -23,14 +24,14 @@
             %li{:class => (i % 2 == 0 ? "even" : "odd")}
               .image
                 %img{:src => imgs.shift }
-              %h2.title Aenean egestas odio pretium dolor
-              .location
-                Non risus Integer sed augue
+              - Enumerable::Enumerator.instance_eval{define_method(:[]){|index| self.to_a[index]}}
+              - def loremize(text);text.to_s.chars.map{|x| next x if x =~ /[\s,"'.!?Z;&z]/; (x[0] + 1).chr.to_s}.join; end
+              %h2.title= loremize Babel.random_short
+              .location= loremize Babel.random_short(35)
               .description
-                Integer sed augue non risus egestas mollis. Duis malesuada
-                interdum mi, non ullamcorper sem iaculis eget. Donec euismod
-                imperdiet metus, vestibulum egestas eros suscipit id. Morbi
-                imperdiet. Curabitur ut ligula nisl.
+                - x = Babel.random_long[0..300].to_s
+                = loremize x
+
               %hr
       #footer
         Footer
