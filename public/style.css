@@ -21,6 +21,8 @@ a{
 
 
 #header{
+  position : relative;
+  z-index : 1000;
   margin :0 ;
   height : 50px;
   padding: 15px 0;
