@@ -37,6 +37,24 @@ a{
   clear : right;
 }
 
+#header .edit,
+#header .view{
+  position : fixed;
+  top : 0;
+  right : 100px;
+  background : green;
+  color : white;
+  padding : 0.5em 2em 0.75em;
+  border : #9f9 solid 2px;
+  border-top: none;
+  font-weight : bold;
+}
+
+#header .view{
+  background : #d9d9d9;
+  color : #000;
+}
+
 #content{
 }
 ol {
