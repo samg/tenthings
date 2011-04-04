@@ -1,0 +1,12 @@
+%h1.editable.short Mauris bibendum massa vitae diam rutrum
+%ol
+  - imgs = Dir["#{Rails.root}/public/*.jpg"]
+  - (1..10).each do |i|
+    %li{:class => (i % 2 == 0 ? "even" : "odd")}
+      .image
+        %img{:src => File.basename(imgs.shift) }
+        .uploader
+      %h2.editable.short.title
+      .editable.short.location
+      .editable.long.description<>
+      %hr
