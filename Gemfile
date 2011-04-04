@@ -7,6 +7,11 @@ gem 'rails', '3.0.5'
 
 gem 'sqlite3'
 
+# rspec
+group :test, :development do
+  gem "rspec-rails", "~> 2.4"
+end
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -29,3 +34,4 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
+#
