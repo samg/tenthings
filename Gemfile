@@ -13,6 +13,7 @@ group :test, :development do
 end
 
 gem 'haml'
+gem 'clearance'
 
 # Use unicorn as the web server
 # gem 'unicorn'
